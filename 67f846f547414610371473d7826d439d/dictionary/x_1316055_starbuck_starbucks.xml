@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5588925f83e1c210349455a6feaad38d" extends="task" label="Starbucks" max_length="40" name="x_1316055_starbuck_starbucks" type="collection">
+        <element default="javascript:gs.getUserID()" label="Order For" max_length="32" name="order_for" reference="sys_user" reference_qual="roles=Starbuckes User^EQ" reference_qual_condition="roles=Starbuckes User^EQ" type="reference"/>
+    </element>
+</database>

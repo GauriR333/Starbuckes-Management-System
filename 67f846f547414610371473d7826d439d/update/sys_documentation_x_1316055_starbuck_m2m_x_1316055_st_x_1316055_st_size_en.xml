@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="size" label="Size" language="en" table="x_1316055_starbuck_m2m_x_1316055_st_x_1316055_st">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <help/>
+            <hint/>
+            <label>Size</label>
+            <language>en</language>
+            <name>x_1316055_starbuck_m2m_x_1316055_st_x_1316055_st</name>
+            <plural>Sizes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-20 05:31:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Size</sys_name>
+            <sys_package display_value="Starbucks Management Application" source="x_1316055_starbuck">67f846f547414610371473d7826d439d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management Application">67f846f547414610371473d7826d439d</sys_scope>
+            <sys_update_name>sys_documentation_x_1316055_starbuck_m2m_x_1316055_st_x_1316055_st_size_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-20 05:31:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

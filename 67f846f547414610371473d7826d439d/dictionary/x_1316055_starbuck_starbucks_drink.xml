@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="76018a1f8361c210349455a6feaad3b1" label="Starbucks drink" max_length="40" name="x_1316055_starbuck_starbucks_drink" type="collection">
+        <element label="Calories" max_length="40" name="calories" type="integer"/>
+        <element label="Carb" max_length="40" name="carb" type="integer"/>
+        <element label="Fat" max_length="40" name="fat" type="integer"/>
+        <element label="Fiber" max_length="40" name="fiber" type="integer"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element default="100" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Protein" max_length="40" name="protein" type="integer"/>
+        <element default="100" label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

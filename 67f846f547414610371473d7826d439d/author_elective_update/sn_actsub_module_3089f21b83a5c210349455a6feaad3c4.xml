@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_actsub_module">
+    <sn_actsub_module action="DELETE">
+        <active>true</active>
+        <disable_notifications>false</disable_notifications>
+        <name>Barista</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sn_actsub_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-19 09:53:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3089f21b83a5c210349455a6feaad3c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Barista</sys_name>
+        <sys_package display_value="Starbucks Management Application" source="x_1316055_starbuck">67f846f547414610371473d7826d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management Application">67f846f547414610371473d7826d439d</sys_scope>
+        <sys_update_name>sn_actsub_module_3089f21b83a5c210349455a6feaad3c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-19 09:53:03</sys_updated_on>
+    </sn_actsub_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management Application">67f846f547414610371473d7826d439d</application>
+        <file_path/>
+        <instance_id>fb6ede52db894e182f082a59139619f8</instance_id>
+        <instance_name>dev248345</instance_name>
+        <name>sn_actsub_module_3089f21b83a5c210349455a6feaad3c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_actsub_module"><sn_actsub_module action="INSERT_OR_UPDATE"><active>true</active><disable_notifications>false</disable_notifications><name>Barista</name><order/><roles/><sys_class_name>sn_actsub_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-19 09:53:03</sys_created_on><sys_domain>global</sys_domain><sys_id>3089f21b83a5c210349455a6feaad3c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Barista</sys_name><sys_package display_value="Starbucks Management Application" source="x_1316055_starbuck">67f846f547414610371473d7826d439d</sys_package><sys_policy/><sys_scope display_value="Starbucks Management Application">67f846f547414610371473d7826d439d</sys_scope><sys_update_name>sn_actsub_module_3089f21b83a5c210349455a6feaad3c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-19 09:53:03</sys_updated_on></sn_actsub_module></record_update>]]></payload>
+        <payload_hash>579741884</payload_hash>
+        <record_name>Barista</record_name>
+        <reverted_from/>
+        <source>fa23b7ca83110210349455a6feaad3b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-19 09:53:03</sys_created_on>
+        <sys_id>cb997ad783a5c210349455a6feaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ef5c617a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-19 09:53:03</sys_updated_on>
+        <type>Module</type>
+        <update_guid>cf997ad72da5c2104224dba4d5e37d63</update_guid>
+        <update_guid_history>cf997ad72da5c2104224dba4d5e37d63:579741884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Barista">5b7bf61b83a5c210349455a6feaad381</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-19 10:01:16</sys_created_on>
+        <sys_db_object display_value="" name="sn_actsub_module">sn_actsub_module</sys_db_object>
+        <sys_id>2251ef986a3342b685748ce71519afc4</sys_id>
+        <sys_metadata>3089f21b83a5c210349455a6feaad3c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Barista</sys_name>
+        <sys_package display_value="Starbucks Management Application" source="x_1316055_starbuck">67f846f547414610371473d7826d439d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management Application">67f846f547414610371473d7826d439d</sys_scope>
+        <sys_scope_delete display_value="">2da004bbd66c4960b7391cf9c5055440</sys_scope_delete>
+        <sys_update_name>sn_actsub_module_3089f21b83a5c210349455a6feaad3c4</sys_update_name>
+        <sys_update_version display_value="sn_actsub_module_3089f21b83a5c210349455a6feaad3c4">cb997ad783a5c210349455a6feaad364</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-19 10:01:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

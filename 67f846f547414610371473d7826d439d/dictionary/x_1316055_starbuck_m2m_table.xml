@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9fbe476b83e90610349455a6feaad337" label="m2m table" max_length="40" name="x_1316055_starbuck_m2m_table" type="collection">
+        <element label="Calculation" max_length="40" name="calculation" type="integer"/>
+    </element>
+</database>
